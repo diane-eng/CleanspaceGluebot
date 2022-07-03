@@ -29,7 +29,7 @@ setp hm2_7i76e.0.stepgen.timer-number 1
 net home-x     <=  hm2_7i76e.0.7i76.0.0.input-04
 
 # --- HOME-Y ---
-net home-y     <=  hm2_7i76e.0.7i76.0.0.input-05-not
+net home-y     <=  hm2_7i76e.0.7i76.0.0.input-05
 
 # --- CYCLE-START ---
 net cycle_start     <=  hm2_7i76e.0.7i76.0.0.input-06
