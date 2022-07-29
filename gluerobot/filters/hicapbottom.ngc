@@ -1,1 +1,18 @@
+G21 G17 G90
 
+(Starting position)
+G01 X66 Y12 F9000
+
+G91
+
+M07
+
+(Filter dimensions)
+G01 X04 Y120 F2500
+G01 X-52 F3000
+G01 Y-106 F2500
+G01 X52 F3000
+
+M09
+
+M02
